@@ -1,0 +1,1 @@
+untuk dapat mengakses sebuah direktori (folder) di sebuah website tanpa menyebutkan file spesifik di dalamnya, web server akan mencoba menampilkan daftar isi dari direktori tersebut. Nah, tampilan daftar isi inilah yang sering disebut sebagai "indexof". Biasanya, tampilan ini berupa daftar sederhana dari semua file dan subdirektori yang ada dalam direktori tersebu
